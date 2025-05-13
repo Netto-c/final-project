@@ -56,5 +56,5 @@ export const initialLocations: Location[] = []
 //     averageTrafficPerSubscriber: 0.04,
 //     totalSubscribers: 5000,
 //     blockingProbability: 7,
-//   },
+//   }
 // ]
